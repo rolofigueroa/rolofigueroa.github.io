@@ -3,21 +3,24 @@
 
 @import "minimal-mistakes";
 
-/* 1) Ocultar el header superior completo */
+/* Ocultar header superior */
 .masthead,
 .greedy-nav {
   display: none !important;
 }
 
-/* 3) Quitar espacios que deja arriba */
-.initial-content,
-.page,
-.page__inner-wrap {
+/* Ocultar SOLO la franja blanca del título automático */
+.page__title {
+  display: none !important;
+}
+
+/* Quitar espacio arriba SIN tocar el hero */
+.initial-content {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-/* 4) Hacer el hero el protagonista (opcional) */
+/* Hero intacto */
 .page__hero--overlay {
   max-height: 80vh;
 }
