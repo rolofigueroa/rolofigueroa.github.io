@@ -5,17 +5,18 @@ title: Inicio
 
 # Rolando Figueroa Bolívar
 
-**Bachiller en Ingeniería de Minas (UNSA)** y **Técnico en Electricidad Industrial – Sistemas de Potencia (TECSUP)**.  
-Experiencia en **entornos mineros e industriales**, **mantenimiento eléctrico**, **análisis de fallas** y **soporte en campo**.  
+**Bachiller en Ingeniería de Minas (UNSA)** y **Egresado en Electricidad Industrial – Sistemas de Potencia (TECSUP)**.  
+Experiencia en **entornos mineros e industriales**, **mantenimiento eléctrico**, **análisis de fallas**, **diseño** y **soporte en campo**.  
 
 📍 Lima, Perú  
 📧 rfigueroabolivar@gmail.com  
+📱 982862307
 🔗 [LinkedIn](https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191)
 
 ---
 
 ## 🧰 Áreas de enfoque
-- Mantenimiento eléctrico (BT/MT), tableros, subestaciones y motores de potencia  
+- Mantenimiento eléctrico (BT/MT), tableros, subestaciones y motores de potencia
 - Análisis de fallas, reportes técnicos, control operativo y mejora de procesos  
 - Diseño eléctrico (AutoCAD), esquemas unifilares y metrados  
 - Dashboards operativos (Excel avanzado / Power BI)
@@ -28,10 +29,10 @@ Experiencia en **entornos mineros e industriales**, **mantenimiento eléctrico**
 - Reportes técnicos, valorización de incidencias y soporte a mantenimiento correctivo/preventivo  
 
 **SDISE S.A.C — Minera Quellaveco (Parada de Planta)** *(Sep. 2025)*  
-- Preventivos en salas eléctricas / subestaciones y apoyo en motores de gran potencia (hasta 9,000 HP)  
+- Mantenimiento preventivos en salas eléctricas / subestaciones y apoyo en motores de gran potencia (hasta 9,000 HP)  
 
 **Efien S.A.C — Pasantía Diseño Eléctrico** *(Jul. 2025 – Ago. 2025)*  
-- Planos eléctricos y esquemas unifilares (AutoCAD), metrados y estimación de costos  
+- Diseño de planos eléctricos y esquemas unifilares (AutoCAD), metrados y estimación de costos  
 
 **SCE Industrial E.I.R.L — Asistente Técnico (Proyectos Industriales)** *(Feb. 2025 – Jun. 2025)*  
 - Instalaciones BT/MT, montaje de tableros, canalización industrial y mantenimiento de máquinas eléctricas  
@@ -54,18 +55,8 @@ Experiencia en **entornos mineros e industriales**, **mantenimiento eléctrico**
 
 ---
 
-## 🛠️ Herramientas
-**ETAP (intermedio)** · **AutoCAD (avanzado)** · DIALux EVO · MS Project · Power BI · Excel avanzado · PLC/SCADA · Python
-
----
-
 ## 📌 Proyectos (en construcción)
 Estoy organizando y subiendo mis proyectos actuales.  
 Por ahora, puedes ver mis repos en: **[github.com/rolfigueroa](https://github.com/rolfigueroa)**
 
----
-
-## 🤝 Contacto
-Si deseas coordinar una entrevista o colaboración:  
-📧 rfigueroabolivar@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191)
 
