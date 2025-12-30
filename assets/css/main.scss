@@ -3,11 +3,40 @@
 
 @import "minimal-mistakes";
 
-/* Hero (banner) a ancho completo */
-.page__hero--overlay {
-  max-width: 100% !important;
+/* ====== HEADER SUPERIOR (config.yml) ====== */
+
+/* Hacer el título más pequeño */
+.masthead__title {
+  font-size: 1rem !important;
 }
 
-.page__hero--overlay .wrapper {
-  max-width: 1400px; /* puedes subirlo a 1400 si quieres */
+/* Subtítulo más pequeño y en una sola línea */
+.masthead__description {
+  font-size: 0.85rem !important;
+  white-space: nowrap;
+}
+
+/* Reducir altura del header */
+.masthead {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* Quitar separación innecesaria */
+.masthead__inner-wrap {
+  min-height: auto !important;
+}
+
+/* ====== HERO (index.md) FULL PROTAGONISTA ====== */
+
+.page__hero--overlay {
+  max-height: 80vh;
+}
+
+.page__hero--overlay h1 {
+  font-size: 3rem;
+}
+
+.page__hero--overlay p {
+  font-size: 1.2rem;
 }
