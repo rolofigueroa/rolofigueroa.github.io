@@ -40,3 +40,13 @@
 .page__hero--overlay p {
   font-size: 1.2rem;
 }
+/* OCULTAR HEADER SUPERIOR (masthead) */
+.masthead {
+  display: none !important;
+}
+
+/* SUBIR EL CONTENIDO PARA QUE NO QUEDE ESPACIO ARRIBA */
+.initial-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
