@@ -1,9 +1,32 @@
 title: "Rolando Figueroa Bolivar"
-description: "Egresado de Electricidad Industrial (TECSUP) | Bachiller Ing. de Minas (UNSA) | Mantenimiento & Potencia"
-theme: jekyll-theme-dinky
+description: "Electricidad Industrial (TECSUP) | Ing. de Minas (UNSA) | Mantenimiento & Potencia"
 
-# (opcional pero recomendado)
-logo: /assets/img/profile.jpg
+url: "https://rolofigueroa.github.io"
+baseurl: ""
 
-# Links (para que el theme muestre “View my GitHub Profile” y otros)
-github_username: rolofigueroa
+# Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "air"   # luego puedes probar: dark, mint, neon
+
+logo: "/assets/img/profile.jpg"
+
+author:
+  name: "Rolando Figueroa Bolivar"
+  location: "Perú"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/rolofigueroa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
