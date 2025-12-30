@@ -3,12 +3,7 @@
 # ===============================
 title: "Rolando Figueroa Bolivar"
 subtitle: "Electricidad Industrial · Ing. de Minas"
-description: "Egresado de Electricidad Industrial (TECSUP) y Bachiller en Ingeniería de Minas (UNSA). Experiencia en mantenimiento eléctrico, potencia y entornos mineros."
-locale: "es-PE"
-timezone: "America/Lima"
 
-url: "https://rolofigueroa.github.io"
-baseurl: ""
 
 # ===============================
 # Tema
@@ -25,24 +20,6 @@ plugins:
 logo: "/assets/img/profile.jpg"
 masthead_title: "Rolando Figueroa Bolivar"
 
-# ===============================
-# Autor
-# ===============================
-author:
-  name: "Rolando Figueroa Bolivar"
-  avatar: "/assets/img/profile.jpg"
-  bio: "Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico & Potencia"
-  location: "Perú"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/rolofigueroa"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
-    - label: "Correo"
-      icon: "fas fa-envelope"
-      url: "mailto:rfigueroabolivar@gmail.com"
 
 # ===============================
 # Navegación superior
