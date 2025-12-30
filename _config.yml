@@ -1,5 +1,11 @@
+title: "Rolando Figueroa Bolivar"
+description: "Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico"
+
+url: "https://rolofigueroa.github.io"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
   - jekyll-include-cache
+
