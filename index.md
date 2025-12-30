@@ -6,7 +6,7 @@ excerpt: "Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico &
 header:
   overlay_color: "#000"
   overlay_filter: "0.45"
-  overlay_image: /assets/img/scada.jpg
+  overlay_image: /assets/img/trafo.jpg
   actions:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
