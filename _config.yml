@@ -1,3 +1,9 @@
-title: Rolando Figueroa
-description: Portafolio personal
+title: "Rolando Figueroa Bolívar"
+description: "Electricidad Industrial (TECSUP) | Ing. de Minas (UNSA) | Mantenimiento & Potencia"
 theme: jekyll-theme-minimal
+
+# (opcional pero recomendado)
+logo: /assets/img/profile.jpg
+
+# Links (para que el theme muestre “View my GitHub Profile” y otros)
+github_username: rolfigueroa
