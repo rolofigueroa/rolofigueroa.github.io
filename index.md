@@ -3,14 +3,14 @@ layout: default
 title: Inicio
 ---
 
-# Rolando Figueroa Bolívar
+# Rolando Figueroa Bolivar
 
 **Bachiller en Ingeniería de Minas (UNSA)** y **Egresado en Electricidad Industrial – Sistemas de Potencia (TECSUP)**.  
 Experiencia en **entornos mineros e industriales**, **mantenimiento eléctrico**, **análisis de fallas**, **diseño** y **soporte en campo**.  
 
 📍 Lima, Perú  
 📧 rfigueroabolivar@gmail.com  
-📱 982862307
+📱 +51 982862307          
 🔗 [LinkedIn](https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191)
 
 ---
