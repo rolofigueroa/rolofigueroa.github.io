@@ -55,4 +55,18 @@
 .site-subtitle {
   display: none !important;
 }
+/* OCULTAR TITULO AUTOMATICO DE PAGINA (franja blanca) */
+.page__title {
+  display: none !important;
+}
+
+/* Quitar espacio extra que deja */
+.page {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+.initial-content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
 
