@@ -10,7 +10,7 @@ header:
   actions:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
-    - label: "GitHub"
+    - label: "GitHubaaaa"
       url: "https://github.com/rolofigueroa"
 
 ---
