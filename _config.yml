@@ -1,21 +1,37 @@
+# ===============================
+# Información básica del sitio
+# ===============================
 title: "Rolando Figueroa Bolivar"
-description: "Electricidad Industrial (TECSUP) | Ing. de Minas (UNSA) | Mantenimiento & Potencia"
+subtitle: "Electricidad Industrial · Ing. de Minas"
+description: "Egresado de Electricidad Industrial (TECSUP) y Bachiller en Ingeniería de Minas (UNSA). Experiencia en mantenimiento eléctrico, potencia y entornos mineros."
+locale: "es-PE"
+timezone: "America/Lima"
 
 url: "https://rolofigueroa.github.io"
 baseurl: ""
 
-# Minimal Mistakes
+# ===============================
+# Tema
+# ===============================
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "air"   # luego puedes probar: dark, mint, contrast
 
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: "air"   # luego puedes probar: dark, mint, neon
-
+# ===============================
+# Branding
+# ===============================
 logo: "/assets/img/profile.jpg"
+masthead_title: "Rolando Figueroa Bolivar"
 
+# ===============================
+# Autor
+# ===============================
 author:
   name: "Rolando Figueroa Bolivar"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico & Potencia"
   location: "Perú"
   links:
     - label: "GitHub"
@@ -24,9 +40,35 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
+    - label: "Correo"
+      icon: "fas fa-envelope"
+      url: "mailto:rfigueroabolivar@gmail.com"
 
+# ===============================
+# Navegación superior
+# ===============================
+navigation:
+  - title: "Inicio"
+    url: /
+  - title: "Sobre mí"
+    url: /#sobre-mi
+  - title: "Experiencia"
+    url: /#experiencia
+  - title: "Proyectos"
+    url: /#proyectos
+  - title: "Contacto"
+    url: /#contacto
+
+# ===============================
+# Comportamiento por defecto
+# ===============================
 defaults:
   - scope:
       path: ""
     values:
       layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      breadcrumbs: false
