@@ -1,0 +1,13 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Hero (banner) a ancho completo */
+.page__hero--overlay {
+  max-width: 100% !important;
+}
+
+.page__hero--overlay .wrapper {
+  max-width: 1200px; /* puedes subirlo a 1400 si quieres */
+}
