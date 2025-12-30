@@ -1,22 +1,21 @@
 ---
 layout: splash
-title: "Rolando Figueroa Bolívar"
+title: "Rolando Figueroa Bolivar"
+excerpt: "Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico & Potencia"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.35"
+  overlay_filter: "0.4"
   overlay_image: /assets/img/profile.jpg
-excerpt: "Electricidad Industrial (TECSUP) · Ing. de Minas (UNSA) · Mantenimiento & Potencia"
-feature_row:
-  - image_path: /assets/img/profile.jpg
-    alt: "Perfil"
-    title: "Sobre mí"
-    excerpt: "Entornos mineros e industriales, mantenimiento eléctrico, potencia y reportes técnicos."
-  - title: "Experiencia"
-    excerpt: "Luz del Sur · Quellaveco · Diseño eléctrico · Mantenimiento BT/MT."
-  - title: "Proyectos"
-    excerpt: "Sección en construcción. Pronto subiré dashboards, ETAP, AutoCAD y casos reales."
 ---
 
-{% include feature_row %}
+## Sobre mí
+Bachiller en Ingeniería de Minas (UNSA) y egresado de Electricidad Industrial (TECSUP), con experiencia en entornos mineros e industriales, mantenimiento eléctrico, potencia y análisis técnico.
 
+## Experiencia
+- **Luz del Sur** — Control y mantenimiento BT  
+- **Minera Quellaveco** — Parada de planta / subestaciones  
+- **Diseño eléctrico** — AutoCAD, esquemas unifilares, metrados  
 
+## Proyectos
+🚧 En construcción.  
+Actualmente organizando proyectos de **Power BI**, **ETAP**, **AutoCAD** y **mantenimiento eléctrico**.
