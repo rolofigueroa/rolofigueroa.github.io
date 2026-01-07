@@ -1,8 +1,7 @@
 ---
 layout: splash
 title: "Rolando Figueroa Bolivar"
-excerpt: "Rolando Figueroa Bolivar
-        Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico & Potencia"
+excerpt: "Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico & Potencia"
 
 header:
   overlay_color: "#000"
