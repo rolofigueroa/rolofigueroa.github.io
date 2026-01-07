@@ -21,6 +21,9 @@ header:
 
 <section id="sobre-mi"></section>
 
+## Contacto
+📧 **Correo:** [rfigueroabolivar@gmail.com](mailto:rfigueroabolivar@gmail.com)  
+
 ## Sobre mí
 Bachiller en **Ingeniería de Minas (UNSA)** y egresado de **Electricidad Industrial (TECSUP)**, con experiencia en **entornos mineros e industriales**, **mantenimiento eléctrico**, **sistemas de potencia** y **análisis técnico-operativo**.  
 Me enfoco en soluciones prácticas, trabajo en campo y soporte a la toma de decisiones técnicas.
@@ -63,12 +66,4 @@ Actualmente estoy organizando y documentando proyectos relacionados con:
 ---
 
 <section id="contacto"></section>
-
-## Contacto
-
-Si deseas ponerte en contacto conmigo:
-
-- 📧 **Correo:** [rfigueroabolivar@gmail.com](mailto:rfigueroabolivar@gmail.com)  
-- 💼 **LinkedIn:** [Ver perfil](https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191)  
-- 💻 **GitHub:** [github.com/rolofigueroa](https://github.com/rolofigueroa)
 
