@@ -2,7 +2,6 @@
 layout: splash
 
 title: "Rolando Figueroa Bolivar"
-
 excerpt: "Electricidad Industrial · Ing. de Minas"
 
 header:
