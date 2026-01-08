@@ -3,18 +3,13 @@
 
 @import "minimal-mistakes";
 
-/* Ocultar header superior */
+/* Ocultar header superior (menú) */
 .masthead,
 .greedy-nav {
   display: none !important;
 }
 
-/* Ocultar SOLO la franja blanca del título automático */
-.page__title {
-  display: none !important;
-}
-
-/* Quitar espacio arriba SIN tocar el hero */
+/* Quitar espacio arriba */
 .initial-content {
   margin-top: 0 !important;
   padding-top: 0 !important;
