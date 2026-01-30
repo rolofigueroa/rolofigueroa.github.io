@@ -2,7 +2,7 @@
 layout: splash
 
 title: "Rolando Figueroa Bolivar"
-excerpt: " Ingeniería de Minas "
+excerpt: " Ingeniería de Minas · Planner de Mantenimiento · Electricidad Industrial · Sistemas de Potencia "
 permalink: /
 show_title: false
 header:
@@ -39,15 +39,15 @@ Me enfoco en soluciones prácticas, trabajo en campo y soporte a la toma de deci
 
 ### ⚡ Luz del Sur
 **Dirección y Control BT**  
-Monitoreo operativo, atención de incidencias, soporte a mantenimiento correctivo y elaboración de reportes técnicos.
+  - Monitoreo operativo, atención de incidencias, soporte a mantenimiento correctivo y elaboración de reportes técnicos.
 
 ### ⛏️ Minera Quellaveco
 **Parada de planta / subestaciones**  
-Apoyo en mantenimiento eléctrico, revisión de equipos, trabajos en subestaciones y cumplimiento de protocolos de seguridad.
+  - Apoyo en mantenimiento eléctrico, revisión de equipos, trabajos en subestaciones y cumplimiento de protocolos de seguridad.
 
 ### 📐 Diseño eléctrico
 **AutoCAD · Esquemas unifilares · Metrados**  
-Desarrollo y actualización de planos eléctricos, metrados y soporte en estimación de costos.
+  - Desarrollo y actualización de planos eléctricos, metrados y soporte en estimación de costos.
 
 ---
 
