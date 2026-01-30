@@ -2,7 +2,7 @@
 layout: splash
 
 title: "Rolando Figueroa Bolivar"
-excerpt: " Ingeniería de Minas | Planner de Mantenimiento | Electricidad Industrial | Sistemas de Potencia "
+excerpt: " Ingeniería de Minas "
 permalink: /
 show_title: false
 header:
