@@ -21,7 +21,7 @@ header:
 
 ---
 
-<section id="contacto"></section>
+<section id="sobre-mi"></section>
 
 ## Contacto
   **Correo:** [rfigueroabolivar@gmail.com](mailto:rfigueroabolivar@gmail.com)                     
