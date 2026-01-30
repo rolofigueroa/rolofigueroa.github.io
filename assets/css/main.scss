@@ -26,3 +26,13 @@
   color: #ffffff !important;
 }
 
+/* OCULTAR "Permalink" y el ícono en los títulos de sección */
+.page__content h1 a.header-link,
+.page__content h2 a.header-link,
+.page__content h3 a.header-link,
+.page__content h4 a.header-link,
+.page__content h5 a.header-link,
+.page__content h6 a.header-link {
+  display: none !important;
+}
+
