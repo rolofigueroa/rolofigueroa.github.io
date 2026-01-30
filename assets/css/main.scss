@@ -19,3 +19,9 @@
 .page__hero--overlay {
   max-height: 80vh;
 }
+
+.page__hero--overlay .page__lead {
+  font-size: 1.2rem;
+  font-weight: 400;
+  opacity: 0.95;
+}
