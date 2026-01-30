@@ -12,11 +12,11 @@ header:
   actions:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
-    - label: "LinkedInE"
+    - label: "Proyectos de Mantenimiento"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
-    - label: "LinkedInA"
+    - label: "Perforación y Voladura"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
-    - label: "GitHubaaaa"
+    - label: "Sistemas Eléctricos de Potencia"
       url: "https://github.com/rolofigueroa"
 
 ---
