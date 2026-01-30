@@ -1,14 +1,22 @@
+# ===============================
+# Configuración básica del sitio
+# ===============================
 title: "Rolando Figueroa Bolivar"
-description: "Electricidad Industrial · Ing. de Minas · Mantenimiento eléctrico"
 
 url: "https://rolofigueroa.github.io"
 baseurl: ""
 
+# ===============================
+# Tema
+# ===============================
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
   - jekyll-include-cache
 
+# ===============================
+# Navegación superior
+# ===============================
 navigation:
   - title: "Inicio"
     url: /
@@ -20,4 +28,3 @@ navigation:
     url: /#proyectos
   - title: "Contacto"
     url: /#contacto
-
