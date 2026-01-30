@@ -28,3 +28,6 @@ navigation:
     url: /#proyectos
   - title: "Contacto"
     url: /#contacto
+
+enable_anchorjs: false
+
