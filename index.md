@@ -24,7 +24,7 @@ header:
 <section id="sobre-mi"></section>
 
 ## Contacto
-  **Correo:** [rfigueroabolivar@gmail.com](mailto:rfigueroabolivar@gmail.com) 
+  **Correo:** [rfigueroabolivar@gmail.com](mailto:rfigueroabolivar@gmail.com)                     
   **Contacto:** [+51 982862307](https://wa.me/51982862307)
 
 ## Sobre mí
@@ -38,7 +38,7 @@ Me enfoco en soluciones prácticas, trabajo en campo y soporte a la toma de deci
 ## Experiencia
 
 ### ⚡ Luz del Sur
-**Control y mantenimiento BT**  
+**Dirección y Control BT**  
 Monitoreo operativo, atención de incidencias, soporte a mantenimiento correctivo y elaboración de reportes técnicos.
 
 ### ⛏️ Minera Quellaveco
@@ -53,16 +53,6 @@ Desarrollo y actualización de planos eléctricos, metrados y soporte en estimac
 
 <section id="proyectos"></section>
 
-## Proyectos
-
-🚧 **En construcción**
-
-Actualmente estoy organizando y documentando proyectos relacionados con:
-
-- 📊 **Dashboards en Power BI** (operativos y técnicos)
-- ⚙️ **ETAP** (análisis de sistemas eléctricos y potencia)
-- 📐 **AutoCAD** (planos y esquemas eléctricos)
-- 🔧 **Mantenimiento eléctrico industrial**
 
 > Próximamente publicaré casos reales y repositorios con documentación técnica.
 
