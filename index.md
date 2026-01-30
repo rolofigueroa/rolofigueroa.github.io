@@ -13,7 +13,7 @@ header:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
     - label: "Proyectos de Mantenimiento"
-      url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
+      url: "/proyectos/"
     - label: "Perforación y Voladura"
       url: "https://www.linkedin.com/in/rolando-figueroa-bolivar-90333b191"
     - label: "Sistemas Eléctricos de Potencia"
