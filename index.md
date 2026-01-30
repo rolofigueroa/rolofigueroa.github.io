@@ -2,7 +2,7 @@
 layout: splash
 
 title: "Rolando Figueroa Bolivar"
-excerpt: "Electricidad Industrial · Ing. de Minas"
+excerpt: " Ingeniería de Minas | Planner de Mantenimiento | Electricidad Industrial | Sistemas de Potencia "
 permalink: /
 show_title: false
 header:
@@ -24,7 +24,8 @@ header:
 <section id="sobre-mi"></section>
 
 ## Contacto
-📧 **Correo:** [rfigueroabolivar@gmail.com](mailto:rfigueroabolivar@gmail.com)  
+  **Correo:** [rfigueroabolivar@gmail.com](mailto:rfigueroabolivar@gmail.com) 
+  **Contacto:** [+51 982862307](https://wa.me/51982862307)
 
 ## Sobre mí
 Bachiller en **Ingeniería de Minas (UNSA)** y egresado de **Electricidad Industrial (TECSUP)**, con experiencia en **entornos mineros e industriales**, **mantenimiento eléctrico**, **sistemas de potencia** y **análisis técnico-operativo**.  
