@@ -2,31 +2,31 @@
 layout: single
 title: "Proyectos"
 permalink: /proyectos/
+classes: wide
 ---
 
-## 📅 Planificación de Mantenimiento (Diagrama de Gantt)
+<div class="projects-grid">
 
-**Área:** Mantenimiento  
-**Herramientas:** Excel · Gestión de mantenimiento  
-**Tipo:** Proyecto técnico
+  <a class="project-card" href="/proyectos/gantt-mantenimiento/">
+    <img src="/assets/img/proyectos/gantt-mantenimiento.png" alt="Gantt mantenimiento">
+    <div class="project-card-body">
+      <h3>Gantt de Mantenimiento (Excel)</h3>
+      <p>Planificación PM/CM, cronograma, hitos y control de recursos.</p>
+      <span class="tag">Excel</span>
+      <span class="tag">Mantenimiento</span>
+      <span class="tag">Planner</span>
+    </div>
+  </a>
 
-### Descripción
-Diseño de un **diagrama de Gantt en Excel** para la planificación de actividades de mantenimiento preventivo y correctivo, permitiendo:
+  <a class="project-card" href="#">
+    <img src="/assets/img/proyectos/placeholder.png" alt="Power BI">
+    <div class="project-card-body">
+      <h3>Dashboard de Mantenimiento (Power BI)</h3>
+      <p>KPIs, backlog, cumplimiento, paradas y tendencias.</p>
+      <span class="tag">Power BI</span>
+      <span class="tag">KPIs</span>
+    </div>
+  </a>
 
-- Control de fechas y duraciones  
-- Visualización clara de tareas  
-- Apoyo a la toma de decisiones en mantenimiento  
+</div>
 
-### Vista del cronograma
-![Gantt de mantenimiento](/assets/img/proyectos/gantt-mantenimiento.png)
-
-### Archivo del proyecto
-📥 **Descargar:**  
-[Diagrama de Gantt – Mantenimiento (Excel)](/assets/files/Gantt_Mantenimiento.xlsx)
-
----
-
-## 🚧 Próximos proyectos
-- Análisis de mantenimiento con Power BI  
-- Planeamiento de paradas de planta  
-- Diagramas eléctricos y metrados (AutoCAD)
